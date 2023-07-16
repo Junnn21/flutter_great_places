@@ -32,7 +32,7 @@
             android:name="flutterEmbedding"
             android:value="2" />
             <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDPhSVcTDx_Godb67Vr3P9nRN5dp53RL70"/>
+               android:value="YOUR_KEY"/>
     </application>
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
